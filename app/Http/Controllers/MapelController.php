@@ -32,7 +32,7 @@ class MapelController extends Controller
         return view('admin.mapel.ubah', compact('data'));
     }
 
-    public function update(Request $request, $id)
+    public function update(Request $request, $id) 
     {
         Mapel::whereId($id)->update([
             'nama' => $request->nama
