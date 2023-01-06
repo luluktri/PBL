@@ -1,0 +1,123 @@
+#app {
+    background: #f0fff0;
+    height: 100vh;
+}
+
+.bg-green {
+    background: #f0fff0;
+}
+
+.nav-item a {
+    color: #282531;
+}
+
+.nav-link {
+    margin-left: 30px;
+}
+
+.banner-1 {
+    align-items: center;
+}
+
+.banner-1 img {
+    width: 100%;
+}
+
+.banner-h {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    color: #21b573;
+}
+
+.color-green {
+    color: #21b573;
+}
+
+.button-2:hover {
+    box-shadow: 5px 5px 10px rgb(87, 170, 87);
+    transition: 0.2s;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card {
+    padding: 2%;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 5px 5px 20px rgb(165, 221, 165);
+}
+
+.card:hover {
+    box-shadow: 5px 5px 20px rgb(87, 170, 87);
+    transition: 0.2s;
+}
+
+.card-footer {
+    background-color: white;
+    border: none;
+}
+
+.card-footer img {
+    width: 20%;
+    padding-bottom: 10px;
+}
+
+.blog h1 {
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    color: #21b573;
+    margin-bottom: 60px;
+}
+
+.blog img {
+    width: 150px;
+    height: 15opx;
+    box-shadow: 5px 5px 10px rgb(165, 221, 165);
+    border-radius: 50%;
+}
+
+.blog {
+    align-items: center;
+    width: 50%;
+    margin-bottom: 80px;
+}
+
+.blog p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    padding-top: 3.5%;
+    padding-left: 5%;
+}
+
+footer {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    color: white;
+    background-color: #282531;
+}
+
+.f-col-1 {
+    padding-right: 100px;
+}
+
+.btn {
+    border-radius: 33px;
+}
+
+.foot a {
+    font-size: 20px;
+    text-decoration: none;
+    color: #ffffff;
+    transition: 0.2s ease;
+}
+
+.foot a:hover {
+    text-decoration: none;
+    color: #a79f9f;
+}
